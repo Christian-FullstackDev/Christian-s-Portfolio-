@@ -107,7 +107,8 @@ export const projects: Project[] = [
     image: "./image/musicapp1.jpg",
     description: "Designed a mobile application that enables users to stream music, sing along with synchronized lyrics, record karaoke performances, and share their recordings through an engaging, user-friendly interface.",
     match: "99% Match",
-    duration: "Jan 2026 - 2024"
+    duration: "Jan 2026 - 2024",
+    figmaLink: "https://www.figma.com/design/lsrWCgKGEzeHsFyKCBs6Ss/Music-App?node-id=0-1&t=JeRC5xYbXbxg4VKY-1"
   },
 ];
 
