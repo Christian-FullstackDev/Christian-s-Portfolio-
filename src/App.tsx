@@ -37,7 +37,7 @@ export default function App() {
       <Hero onMoreInfo={() => setShowAbout(true)} />
 
       <div className="mt-8 relative z-20 space-y-8">
-        <Row title="Selected Projects" id="projects">
+        <Row title="Projects" id="projects">
           {projects.map(project => (
             <ProjectCard 
               key={project.id} 

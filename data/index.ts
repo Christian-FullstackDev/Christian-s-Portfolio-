@@ -99,7 +99,16 @@ export const projects: Project[] = [
     match: "92% Match",
     duration: "2024",
     figmaLink: "https://www.figma.com/design/gguqJuXi5oxL2FeTvUdpDW/E-Commerce-App?node-id=34-445&t=cz78ABA3buXviWt2-1"
-  }
+  },
+  {
+    id: 11,
+    title: "Music Streaming & Karaoke App",
+    category: "Streaming & Entertainment Platform",
+    image: "./image/musicapp1.jpg",
+    description: "Designed a mobile application that enables users to stream music, sing along with synchronized lyrics, record karaoke performances, and share their recordings through an engaging, user-friendly interface.",
+    match: "99% Match",
+    duration: "Jan 2026 - 2024"
+  },
 ];
 
 export const experiences: Experience[] = [

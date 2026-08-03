@@ -10,7 +10,7 @@ const AboutModal = () => {
          </div>
         <div className="absolute bottom-8 left-8">
           <h2 className="text-3xl font-bold">Christian Udoh</h2>
-          <p className="text-gray-400">Product Designer • Uyo, Nigeria</p>
+          <p className="text-gray-400">Product Designer • Abuja, Nigeria</p>
         </div>
       </div>
       <div className="p-6 md:p-8 grid md:grid-cols-3 gap-8">
@@ -31,11 +31,11 @@ const AboutModal = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-[#E50914]" />
-                <span>+234 705 171 9724</span>
+                <span>+234 907 052 8243</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-5 h-5 text-[#E50914]" />
-                <span>21 Efanga Usanga Street, Uyo, Akwaibom State</span>
+                <span>Mpape District Abuja.</span>
               </div>
             </div>
           </div>
